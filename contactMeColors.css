@@ -1,0 +1,11 @@
+body{
+	background-color: rgba(0, 0, 14, 0.3);
+
+}
+#wholeEnchilada{
+	background-color: crimson;
+	float: left;
+	width:60%;
+	padding-bottom: 10px;
+	
+}

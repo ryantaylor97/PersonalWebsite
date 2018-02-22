@@ -1,0 +1,32 @@
+#CoursesTaken{
+	color: white;
+	background-color: crimson;
+	padding-left: 10px;
+}
+#PersonalProjects{
+	color: white;
+	background-color: crimson;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	
+}
+
+body{
+	background-color: rgba(0, 0, 14, 0.3);
+}
+ul{
+	list-style-type: none;
+}
+ td {
+    padding: 15px;
+}
+table#table tr:nth-child(even) {
+    background-color: #eee;
+}
+table#table tr:nth-child(odd) {
+    background-color: #fff;
+}
+table#table th {
+    color: white;
+    background-color: black;
+}
